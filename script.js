@@ -20,4 +20,7 @@ if(sf){sf.onsubmit=e=>{e.preventDefault();search(document.getElementById('q').va
 tilt();
 
 const cf=document.getElementById('cf');
-if(cf){cf.onsubmit=e=>{e.preventDefault();cf.reset();document.getElementById('ok').hidden=false}}
+if(cf){cf.onsubmit=e=>{e.preventDefault();const f=new FormData(cf);
+ const body=`Name: ${f.get('name')}\nEmail: ${f.get('email')}\n\n${f.get('message')}`;
+ location.href=`mailto:${cf.dataset.to}?subject=${encodeURIComponent('Message from '+f.get('name'))}&body=${encodeURIComponent(body)}`;
+ document.getElementById('ok').hidden=false}}
