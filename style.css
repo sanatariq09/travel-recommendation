@@ -1,6 +1,6 @@
 :root{--ink:#0a1f28;--deep:#0b3c49;--lagoon:#2ec4b6;--sand:#f4e9d8;--sun:#ffb703}
 *{box-sizing:border-box}body{margin:0;background:var(--ink);color:var(--sand);font:400 1rem/1.6 "DM Sans",sans-serif}
-h1,h3,.logo{font-family:Fraunces,serif}
+h1,h2,h3,.logo{font-family:Fraunces,serif}
 .nav{display:flex;flex-wrap:wrap;gap:1rem 2rem;align-items:center;padding:1rem 5vw;background:var(--deep);position:sticky;top:0;z-index:5}
 .logo{font-size:1.6rem;font-weight:800;color:var(--sun);text-decoration:none}
 nav{display:flex;gap:1.5rem;flex:1}nav a{color:var(--sand);text-decoration:none;padding:.2rem 0;border-bottom:2px solid transparent}
@@ -33,3 +33,4 @@ h1{font-size:clamp(2.4rem,6vw,4.6rem);line-height:1.05;margin:0 0 1rem}.copy p{m
 .contact{padding:1.5rem;max-width:34rem;display:grid;gap:1rem;margin-top:1.5rem}.contact label{display:grid;gap:.3rem}
 @media(max-width:800px){.hero{grid-template-columns:1fr;padding-top:2.5rem}}
 @media(prefers-reduced-motion:reduce){.cube{animation:none;transform:rotateX(-20deg) rotateY(30deg)}.card{transition:none}}
+h2{font-size:1.8rem;margin:3rem 0 0}
