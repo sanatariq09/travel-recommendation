@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+<defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a8dadc"/><stop offset="1" stop-color="#f1faee"/></linearGradient></defs>
+<rect width="800" height="500" fill="url(#s)"/>
+<circle cx="620" cy="130" r="55" fill="#ffd166" opacity=".95"/>
+<rect y="400" width="800" height="100" fill="#588157"/><g fill="#b23a48"><rect x="290" y="270" width="220" height="130"/></g><path d="M250 275 Q400 190 550 275Z" fill="#3a2e28"/><path d="M280 220 Q400 140 520 220Z" fill="#3a2e28"/><rect x="310" y="230" width="180" height="40" fill="#e9c46a"/><rect x="365" y="320" width="70" height="80" fill="#3a2e28"/><g fill="#ffb7c5"><circle cx="110" cy="330" r="55"/><circle cx="160" cy="300" r="45"/><circle cx="690" cy="320" r="60"/><circle cx="640" cy="350" r="40"/></g><rect x="100" y="360" width="14" height="60" fill="#5a3e36"/><rect x="683" y="370" width="14" height="60" fill="#5a3e36"/>
+<rect x="0" y="430" width="800" height="70" fill="#000" opacity=".35"/>
+<text x="30" y="473" font-family="Georgia,serif" font-size="34" font-weight="bold" fill="#fff">Kyoto</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+<defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#48cae4"/><stop offset="1" stop-color="#caf0f8"/></linearGradient></defs>
+<rect width="800" height="500" fill="url(#s)"/>
+<circle cx="620" cy="130" r="55" fill="#ffd166" opacity=".95"/>
+<rect y="380" width="800" height="120" fill="#0096c7"/><path d="M0 420 Q100 405 200 420 T400 420 T600 420 T800 420" stroke="#fff" stroke-opacity=".4" fill="none" stroke-width="4"/><path d="M0 380 L0 200 Q120 90 230 260 L300 380Z" fill="#2d6a4f"/><path d="M450 380 L560 150 L600 130 L640 150 L780 380Z" fill="#40916c"/><rect x="592" y="60" width="16" height="80" fill="#f8f9fa"/><rect x="560" y="80" width="80" height="12" fill="#f8f9fa"/><circle cx="600" cy="55" r="12" fill="#f8f9fa"/><rect x="0" y="395" width="800" height="30" fill="#f4e2b8"/>
+<rect x="0" y="430" width="800" height="70" fill="#000" opacity=".35"/>
+<text x="30" y="473" font-family="Georgia,serif" font-size="34" font-weight="bold" fill="#fff">Rio de Janeiro</text>
+</svg>

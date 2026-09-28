@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+<defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff9e5e"/><stop offset="1" stop-color="#ffe0a3"/></linearGradient></defs>
+<rect width="800" height="500" fill="url(#s)"/>
+<circle cx="620" cy="130" r="55" fill="#ffd166" opacity=".95"/>
+<rect y="300" width="800" height="200" fill="#1a9ac9"/><path d="M0 340 Q100 325 200 340 T400 340 T600 340 T800 340" stroke="#fff" stroke-opacity=".4" fill="none" stroke-width="4"/><rect y="390" width="800" height="40" fill="#f4e2b8"/><path d="M0 390 Q100 365 200 390 T400 390 T600 390 T800 390 V400 H0Z" fill="#f4e2b8"/><path d="M0 250 L120 150 L240 250Z" fill="#3a5a40"/><path d="M560 250 L680 170 L800 250Z" fill="#3a5a40"/><path d="M0 405 Q100 380 200 405 T400 405 T600 405 T800 405" stroke="#333" stroke-width="6" fill="none" opacity=".5"/>
+<rect x="0" y="430" width="800" height="70" fill="#000" opacity=".35"/>
+<text x="30" y="473" font-family="Georgia,serif" font-size="34" font-weight="bold" fill="#fff">Copacabana</text>
+</svg>
