@@ -1,0 +1,76 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "Australia",
+      "cities": [
+        {
+          "name": "Sydney, Australia",
+          "imageUrl": "images/sydney.svg",
+          "description": "A vibrant harbour city known for its Opera House and stunning beaches."
+        },
+        {
+          "name": "Melbourne, Australia",
+          "imageUrl": "images/melbourne.svg",
+          "description": "A cultural capital famous for street art, coffee, and live music."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Japan",
+      "cities": [
+        {
+          "name": "Tokyo, Japan",
+          "imageUrl": "images/tokyo.svg",
+          "description": "A bustling metropolis blending neon-lit skyscrapers with historic shrines."
+        },
+        {
+          "name": "Kyoto, Japan",
+          "imageUrl": "images/kyoto.svg",
+          "description": "Former imperial capital with classical temples, gardens, and geisha districts."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Brazil",
+      "cities": [
+        {
+          "name": "Rio de Janeiro, Brazil",
+          "imageUrl": "images/rio.svg",
+          "description": "A coastal city famed for Carnival, Christ the Redeemer, and golden beaches."
+        },
+        {
+          "name": "Sao Paulo, Brazil",
+          "imageUrl": "images/sao-paulo.svg",
+          "description": "A huge, diverse city with world-class food, art, and nightlife."
+        }
+      ]
+    }
+  ],
+  "temples": [
+    {
+      "name": "Angkor Wat, Cambodia",
+      "imageUrl": "images/angkor.svg",
+      "description": "A massive 12th-century temple complex and symbol of Cambodia."
+    },
+    {
+      "name": "Taj Mahal, India",
+      "imageUrl": "images/taj.svg",
+      "description": "An ivory-white marble mausoleum on the banks of the Yamuna river."
+    }
+  ],
+  "beaches": [
+    {
+      "name": "Bora Bora, French Polynesia",
+      "imageUrl": "images/bora.svg",
+      "description": "Turquoise lagoons and overwater bungalows around a volcanic island."
+    },
+    {
+      "name": "Copacabana Beach, Brazil",
+      "imageUrl": "images/copacabana.svg",
+      "description": "A lively four-kilometre beach with sunsets, sports, and street food."
+    }
+  ]
+}
